@@ -1,0 +1,15 @@
+.block {
+  position: relative;
+  background-color: blue;
+  width: 500px;
+  height: 500px;
+  margin-top: 40px;
+}
+.min_block {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100px;
+  height: 100px;
+  background-color: rgb(156, 119, 119);
+}

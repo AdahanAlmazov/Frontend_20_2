@@ -1,0 +1,41 @@
+/* body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: gray;
+}
+
+.wrapper > div {
+  display: flex;
+  flex-direction: column;
+} */
+/*  
+.usd {
+  margin-top: 50px;
+}
+
+.eur {
+  margin-top: 50px;
+}
+
+input {
+  padding: 10px 20px;
+}
+label {
+  font-size: 20px;
+} */
+
+.load {
+  display: none;
+  margin: 0 auto;
+}
+.container {
+  width: 1200px;
+  height: 50vh;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
